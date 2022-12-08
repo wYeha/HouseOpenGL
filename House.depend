@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670488018 source:c:\codeblocks projects\house\main.c
+	<windows.h>
+	<gl/gl.h>
+
